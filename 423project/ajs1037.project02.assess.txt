@@ -1,0 +1,89 @@
+
+CpSc 423 Fall 2017                    Name: _______Adolfo Segura______
+Assessment of Project 02                ID: _______Ajs1037___________
+
+Due date: 12/5/2017                 Points: ________ / 100
+
+Course objective 1
+
+Client program
+
+Problem solving (19 pts)
+____________________________________________________________________
+
+  _____ (5 pts) Compilable/executable program
+
+  _____ (5 pts) Correct solution
+
+  _____ (5 pts) The client side of application protocol
+
+  _____ (4 pts) Command-line argument processing
+
+
+Critical thinking (25 pts)
+____________________________________________________________________
+
+  _____ (5 pts) Use of socket object and methods/functions
+ 
+  _____ (5 pts) Use of loop 
+
+  _____ (8 pts) Handling of error/exception   
+
+  _____ (5 pts) Generation of request and processing of response
+
+  _____ (2 pts) Use of time-related objects and/or methods
+
+
+Communication (10 pts)
+____________________________________________________________________
+
+  _____ (2 pts) Name and date in the top of the file
+ 
+  _____ (3 pts) Meaningful identifiers
+
+  _____ (2 pts) Indentation
+
+  _____ (3 pts) Comments
+
+
+Server program
+
+
+Problem solving (15 pts)
+____________________________________________________________________
+
+  _____ (5 pts) Compilable/executable program
+
+  _____ (5 pts) Correct solution
+
+  _____ (5 pts) The server side of application protocol
+
+
+
+Critical thinking (21 pts)
+____________________________________________________________________
+
+  _____ (5 pts) Use of socket object and methods/functions
+ 
+  _____ (2 pts) Use of loop 
+
+  _____ (4 pts) Handling of error/exception   
+
+  _____ (5 pts) Processing of request and generation of response
+
+  _____ (5 pts) Use of time-related objects and/or methods
+
+
+Communication (10 pts)
+____________________________________________________________________
+
+  _____ (2 pts) Name and date in the top of the file
+ 
+  _____ (3 pts) Meaningful identifiers
+
+  _____ (2 pts) Indentation
+
+  _____ (3 pts) Comments (communication)
+
+Comments
+____________________________________________________________________
