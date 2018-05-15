@@ -1,2 +1,2 @@
 # CPSC423FinalProject
-Communicate with servers in Python
+Client and Servers Communication in Python
