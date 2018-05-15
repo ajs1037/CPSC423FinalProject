@@ -1,2 +1,8 @@
 # CPSC423FinalProject
-Client and Servers Communication in Python
+Time Server Project in Python
+
+- Sends request for time to server.
+
+- If no response, resend request (try 10 times), if nothing then quit.
+
+- Display reply time
